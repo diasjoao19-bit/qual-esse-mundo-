@@ -1,16 +1,16 @@
 {
-  "slug": "meu-jogo",
-  "title": "Nome do meu jogo",
-  "author": "Seu nome",
-  "authorClass": "Sua turma",
-  "discipline": "Matemática",
-  "grades": ["6º", "7º"],
-  "tags": ["palavra-chave", "outra-palavra"],
-  "description": "Uma frase curta que explica o que o jogo ensina.",
-  "instructions": "Como jogar, em uma ou duas frases.",
-  "duration": 5,
+  "slug": "planetas-em-ordem",
+  "title": "Planetas em Ordem",
+  "author": "Joao Rayk",
+  "authorClass": "9C",
+  "discipline": "Geografia",
+  "grades": ["6º ano", "7º ano", "8º ano", "9º ano"],
+  "tags": ["sistema solar", "planetas", "astronomia", "geografia", "órbitas"],
+  "description": "Organize os 8 planetas do Sistema Solar na ordem certa a partir do Sol usando pistas de tamanho, temperatura e características.",
+  "instructions": "Leia as dicas de tamanho, temperatura e características de cada órbita e clique no planeta correspondente antes que a energia da nave acabe.",
+  "duration": "3 min",
   "version": "1.0.0",
   "entry": "index.html",
   "cover": "cover.svg",
-  "createdAt": "2026-11-02"
+  "createdAt": "2026-11-27"
 }

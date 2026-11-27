@@ -1,38 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Capa de modelo de jogo">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1120" />
-      <stop offset="1" stop-color="#1e3a8a" />
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.07" />
-    </pattern>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  
+  <rect width="1280" height="720" fill="#070b19" />
 
-  <rect width="800" height="450" fill="url(#bg)" />
-  <rect width="800" height="450" fill="url(#grid)" />
-  <circle cx="690" cy="60" r="150" fill="#3b82f6" opacity="0.2" />
+  
+  <circle cx="150" cy="110" r="3" fill="#ffffff" opacity="0.8" />
+  <circle cx="320" cy="80" r="2" fill="#38bdf8" opacity="0.9" />
+  <circle cx="490" cy="140" r="3" fill="#ffffff" opacity="0.6" />
+  <circle cx="720" cy="95" r="2.5" fill="#fde047" opacity="0.8" />
+  <circle cx="950" cy="120" r="3" fill="#ffffff" opacity="0.7" />
+  <circle cx="1140" cy="90" r="2" fill="#38bdf8" opacity="0.8" />
+  <circle cx="210" cy="610" r="2.5" fill="#ffffff" opacity="0.7" />
+  <circle cx="440" cy="640" r="3" fill="#38bdf8" opacity="0.6" />
+  <circle cx="810" cy="620" r="2" fill="#ffffff" opacity="0.8" />
+  <circle cx="1090" cy="590" r="3" fill="#fde047" opacity="0.7" />
 
-  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif">
-    <text x="56" y="72" fill="#93c5fd" font-size="15" font-weight="800" letter-spacing="4">JOGOS VR</text>
+  
+  <rect x="36" y="36" width="1208" height="648" rx="28" fill="none" stroke="#263868" stroke-width="6" />
+  <rect x="52" y="52" width="1176" height="616" rx="20" fill="#10182f" opacity="0.55" />
 
-    <g transform="translate(520 130)">
-      <circle cx="90" cy="90" r="86" fill="none" stroke="#334155" stroke-width="14" />
-      <circle cx="90" cy="90" r="56" fill="none" stroke="#f59e0b" stroke-width="14" />
-      <circle cx="90" cy="90" r="26" fill="#3b82f6" />
-      <circle cx="90" cy="90" r="8" fill="#ffffff" />
-    </g>
+  
+  <ellipse cx="140" cy="390" rx="210" ry="260" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="8 8" />
+  <ellipse cx="140" cy="390" rx="340" ry="330" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="8 8" />
+  <ellipse cx="140" cy="390" rx="490" ry="400" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="8 8" />
+  <ellipse cx="140" cy="390" rx="660" ry="470" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="8 8" />
+  <ellipse cx="140" cy="390" rx="840" ry="540" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="8 8" />
+  <ellipse cx="140" cy="390" rx="1010" ry="610" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="8 8" />
 
-    <text x="56" y="280" fill="#ffffff" font-size="54" font-weight="900" letter-spacing="-1.5">Seu jogo aqui</text>
-    <text x="58" y="320" fill="#bfdbfe" font-size="19" font-weight="600">Copie esta pasta, troque o conteúdo e entregue.</text>
+  
+  <circle cx="110" cy="390" r="115" fill="#f59e0b" opacity="0.25" />
+  <circle cx="110" cy="390" r="88" fill="#f97316" />
+  <circle cx="110" cy="390" r="72" fill="#fde047" />
 
-    <g transform="translate(58 352)">
-      <rect width="128" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.2" />
-      <text x="64" y="22" fill="#e2e8f0" font-size="12" font-weight="700" text-anchor="middle">pasta-modelo</text>
-    </g>
-    <g transform="translate(198 352)">
-      <rect width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.2" />
-      <text x="75" y="22" fill="#e2e8f0" font-size="12" font-weight="700" text-anchor="middle">HTML + CSS + JS</text>
-    </g>
-  </g>
+  
+  
+  <circle cx="265" cy="390" r="14" fill="#9ca3af" />
+  
+  <circle cx="345" cy="390" r="22" fill="#f59e0b" />
+  
+  <circle cx="440" cy="390" r="24" fill="#3b82f6" />
+  <circle cx="435" cy="384" r="8" fill="#10b981" />
+  
+  <circle cx="535" cy="390" r="18" fill="#ef4444" />
+  
+  <circle cx="675" cy="390" r="56" fill="#d97706" />
+  <rect x="622" y="378" width="106" height="10" rx="5" fill="#fef3c7" opacity="0.6" />
+  <rect x="625" y="402" width="100" height="8" rx="4" fill="#92400e" opacity="0.7" />
+  
+  <ellipse cx="855" cy="390" rx="76" ry="18" fill="none" stroke="#fde047" stroke-width="8" transform="rotate(-18 855 390)" />
+  <circle cx="855" cy="390" r="42" fill="#eab308" />
+  
+  <circle cx="1005" cy="390" r="30" fill="#22d3ee" />
+  
+  <circle cx="1125" cy="390" r="28" fill="#2563eb" />
+
+  
+  <text x="640" y="155" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="900" fill="#f8fafc" letter-spacing="2">
+    PLANETAS EM ORDEM
+  </text>
+  <text x="640" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="600" fill="#38bdf8">
+    MISSÃO SISTEMA SOLAR • GEOGRAFIA
+  </text>
+
+  
+  <rect x="440" y="555" width="400" height="54" rx="27" fill="#38bdf8" />
+  <text x="640" y="590" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="800" fill="#070b19">
+    ORGANIZAR AS 8 ÓRBITAS
+  </text>
 </svg>
